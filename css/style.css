@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.myMargin{
+    margin: 25px;
+}
+
+body{
+
+    background-size: cover;
+}
+.west{
+    width: 81px;
+    height:70px ;
+    padding-right: 10px;
+}
+
+
+
+.indexfooter{
+
+    margin-top: 3%;
+    background: blue;
+    height: 1.5em;
+    color: black;
+    
+
+
+}
+.indexfooter{
+    text-align: center;
+}
+
+
+
+
+.sidebar{
+    text-align: center;
+    margin-top: 0px;
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+.suj{
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.verna{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2em;
+}
+.pass{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;    
+}
+.live{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.loop{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.know{
+
+    margin-top: 3%;
+    font-family: 'Times New Roman', Times, serif;
+}
+#psd{
+    border: 1px solid grey;
+    width: 100%;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    height: 15px;
+    font-size: x-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
